@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#081b26"/><stop offset=".58" stop-color="#0e5f63"/><stop offset="1" stop-color="#5030a6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="34" fill="url(#g)"/>
+  <rect x="92" y="70" width="470" height="580" rx="50" fill="#06111d" stroke="#22d5ff" stroke-opacity=".55" stroke-width="4"/>
+  <rect x="132" y="124" width="390" height="470" rx="34" fill="#0d3f3f"/>
+  <circle cx="327" cy="178" r="60" fill="#0f7b75" stroke="#7df8ea" stroke-opacity=".45" stroke-width="4"/>
+  <path d="M295 184h64v44h-64z" fill="#e9ffff" opacity=".88"/><path d="M286 182l41-37 41 37" fill="none" stroke="#e9ffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="327" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#ecffff">QURAN</text>
+  <text x="327" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#ecffff">TARTEEL</text>
+  <rect x="194" y="397" width="266" height="48" rx="24" fill="#153c54"/><rect x="194" y="463" width="116" height="48" rx="24" fill="#153c54"/><rect x="330" y="463" width="130" height="48" rx="24" fill="#153c54"/>
+  <text x="650" y="188" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff">ANDROID APP</text>
+  <text x="650" y="248" font-family="Arial, sans-serif" font-size="28" fill="#d5eefb">Quran Tarteel • Mobile UI • Android Studio</text>
+  <rect x="650" y="300" width="360" height="82" rx="22" fill="#091625" stroke="#32d8ff" stroke-opacity=".35"/><text x="680" y="352" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#eefcff">Clean Screens</text>
+  <rect x="650" y="405" width="360" height="82" rx="22" fill="#091625" stroke="#a06cff" stroke-opacity=".35"/><text x="680" y="457" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#eefcff">Client-Friendly Flow</text>
+  <rect x="650" y="510" width="360" height="82" rx="22" fill="#091625" stroke="#32d8ff" stroke-opacity=".35"/><text x="680" y="562" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#eefcff">Project Handover</text>
+</svg>
